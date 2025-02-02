@@ -55,4 +55,4 @@ Isi `REGION` Region bawaan ap, tapi kamu juga bisa mengubah ke server terdekat.
 
 ## Enjoy the vps? Let's Treat the author to coffee ☕
 
-paypal: https://paypal.me/dedeklender
+paypal: https://paypal.me/sabidz2704
