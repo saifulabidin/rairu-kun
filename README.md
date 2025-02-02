@@ -1,10 +1,10 @@
 # FREE VPS LIFETIME!!!
 
 ### Specification 
-1. 7 GB of RAM 💽
-2. 1.2 TB Storage 💾
+1. 512 MB of RAM 💽
+2. 1 GB of Disk 💾
 3. Up to 100Gbps of speed 🚀
-4. 69 Core CPU 🚥
+4. 2 Core CPU 🚥
 5. Google Cloud Technology 🌐
 
 ### Deploy Tutorial for Railway
